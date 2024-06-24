@@ -1,1 +1,3 @@
 # pfeDeepLearnigLighting
+The project focuses on integration of Deep Learning into intelligent vehicle lighting systems to mitigate the effects of glare, a critical issue affecting road safety. Using onboard camera, the system captures visual data from the road environment. This data is then processed by deep learning models to make automated decisions on lighting adjustments based on light, weather conditions and the road infrastructure. This approach aims to enhance driver safety and conform by precisely and responsively adjusting the lighting, while complying with international automotive lightning standards.
+Key words: Deep Learning, Computer vision, Advanced driver assistance systems, Intelligent lighting system, autonomous driving.
